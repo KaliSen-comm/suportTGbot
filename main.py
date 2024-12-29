@@ -13,7 +13,7 @@ from handler import router
 async def main():
     # Вставьте токен вашего бота
     BOT_TOKEN = ""
-    ADMIN_ID =   # Замените на ID администратора
+    ADMIN_ID =  00000000 # Замените на ID администратора
 
     # Настройка логирования
     logging.basicConfig(level=logging.INFO)
